@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.racha.rachaapi.RachaApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.967 s - in com.racha.rachaapi.RachaApiApplicationTests
